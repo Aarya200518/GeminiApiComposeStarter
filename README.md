@@ -2,9 +2,10 @@
 
 > Enhanced Android Application built with **Jetpack Compose**, **Google Generative AI (Gemini)**, **Room Persistence**, **DataStore Preferences**, and **Hardware-Backed Keystore AES-256-GCM Encryption**.
 > 
-> **Author:** Aarya Bhoye ([GitHub: @Aarya200518](https://github.com/Aarya200518))  
+> **Author:** Aarya Bhoye (Roll No: **N161**) ([GitHub: @Aarya200518](https://github.com/Aarya200518))  
 > **Course:** Mobile Application Development (`702AI0E002`)  
 > **Institution:** SVKM's NMIMS, School of Technology Management & Engineering (STME), Mumbai  
+> **Submission Branch:** `N161_Aarya`  
 
 ---
 
